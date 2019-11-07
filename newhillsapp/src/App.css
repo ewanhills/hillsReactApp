@@ -1,22 +1,81 @@
-.App {
-  text-align: center;
-}
+  .header-color {
+    background: #3C3B3F;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to bottom, #605C3C, #3C3B3F);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to bottom, #605C3C, #3C3B3F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+     }
 
-.App-logo {
-  height: 40vmin;
-}
+     .landing-grid {
+      background: #3C3B3F;  /* fallback for old browsers */
+      background: -webkit-linear-gradient(to bottom, #605C3C, #3C3B3F);  /* Chrome 10-25, Safari 5.1-6 */
+      background: linear-gradient(to bottom, #605C3C, #3C3B3F); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    position: middle;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+     }
 
-.App-header {
-  background-color: #a7cff2;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
+     .ceramics-img {
 
-.App-link {
-  color: #09d3ac;
-}
+      height: 900px;
+      width:  1500px;
+      
+     }
+
+     .banner-text {
+background-color: black;
+opacity: .8;
+width: 75%;
+margin: auto;
+border-radius: 10px
+
+     }
+
+    .banner-text h1{
+      font-size: 60px;
+    font-weight: bold;
+    color:white;
+
+    }
+
+    .banner-text hr {
+
+      border-top: 5px dotted white;
+      width: 50%;
+      margin: auto;   }
+
+      .banner-text p{
+          color:white;
+          font-size: 20px;
+          padding: 1em;
+      }
+
+      .social-links{
+
+        display: flex;
+        justify-content: space-between;
+        width: 50%;
+        margin:auto;
+
+      }
+
+      .social-links i {
+
+color: white;
+font-size: 6em;
+padding: 10px;
+
+      }
+
+      .project-social-links {
+        display: flex;
+        
+        width: 50%;
+        font-size: 5em;
+        margin:middle;
+
+        color: black;
+
+
+      }
