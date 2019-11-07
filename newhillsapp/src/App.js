@@ -10,7 +10,7 @@ function App() {
     <div className="demo-big-content">
     <Layout>
         <Header className="header-color" title="Title" scroll>
-            <HeaderRow title="Niki Oakley Ceramics">
+            <HeaderRow title="Joe Bloggs Ceramics">
                 <Textfield
                     value=""
                     onChange={() => {}}
@@ -22,7 +22,7 @@ function App() {
             <HeaderRow>
                 <Navigation>
                     <Link to="/resume">Home</Link>
-                    <Link to="/about">About</Link>
+                    
                     <Link to="/projects">Projects</Link>
                     <Link to="/contact">Contact</Link>
                 </Navigation>
@@ -31,7 +31,7 @@ function App() {
         <Drawer title="Title">
             <Navigation>
             <Link to="/resume">Landing</Link>
-                    <Link to="/about">About</Link>
+                    
                     <Link to="/projects">Projects</Link>
                     <Link to="/contact">Contact</Link>
             </Navigation>

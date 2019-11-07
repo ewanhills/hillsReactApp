@@ -16,7 +16,7 @@ class Project extends Component {
                 <Card shadow={0} style={{width: '650px', margin: 'auto'}}>
     <CardTitle style={{color: '#fff', height: '300px', background: 'url(https://www.crafts.org.uk/getfile/62ea30ec-6c1c-4e9a-ac3f-ec51a7bb0770/EX_Peter-Lane-ceramic-porcelain-bowl_misty-mountai.aspx'}}>Welcome</CardTitle>
     <CardText>
-        Click on the below icon to see how this was handcrafted.
+        Check out my Instagram to see more like this
     </CardText>
     <CardActions border>
         {/* INSTAGRAM*/}
