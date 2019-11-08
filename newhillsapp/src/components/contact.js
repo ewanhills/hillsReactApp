@@ -16,7 +16,7 @@ class Contact extends Component {
                         />
 
                         <p style={{ width: '75%', margin: 'auto', paddingTop: '1em' }}>
-                            This is Joe Bloggs, Joe makes handmade ceramic items from his .........</p>
+                            This is Hills, Joe makes handmade ceramic items from his .........</p>
                     </Cell>
 
 
