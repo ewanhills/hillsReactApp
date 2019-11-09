@@ -22,18 +22,18 @@ function App() {
                     <HeaderRow>
                         <Navigation>
                             <Link to="/resume">Home</Link>
-
                             <Link to="/projects">Items</Link>
                             <Link to="/contact">Contact</Link>
+                            <Link to="/feedback">Feedback</Link>
                         </Navigation>
                     </HeaderRow>
                 </Header>
                 <Drawer title="Title">
                     <Navigation>
                         <Link to="/resume">Landing</Link>
-
                         <Link to="/projects">Projects</Link>
                         <Link to="/contact">Contact</Link>
+                        <Link to="/feedback">Feedback</Link>
                     </Navigation>
                 </Drawer>
                 <Content>
