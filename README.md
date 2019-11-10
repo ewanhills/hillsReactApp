@@ -23,7 +23,12 @@ This is a react applcation with storybook, this website can do the following.
 
 *Has support for storybook
 
+*Area for item addition for the store front
+![Screenshot](item1.png)
+
 *full CRUD support so the user can leave comments for the business owner.
+
+![Screenshot](crud.png)
 
 *Deployed via Netify.
 
