@@ -27,6 +27,7 @@ This is a react applcation with storybook, this website can do the following.
 ![Screenshot](item1.png)
 
 *full CRUD support so the user can leave comments for the business owner.
+*The user can leave his/her email, name and number this data is stored in an array, it can later be edited or removed from the list if needed.
 
 ![Screenshot](crud.png)
 
