@@ -1,68 +1,74 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Project Title
+Ewan Hills React application for a ceramics producer.
 
-## Available Scripts
+## Getting Started
 
-In the project directory, you can run:
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### `npm start`
+### What the application can do!!!
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Routing
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![Screenshot](routing1.png)
+![Screenshot](routing2.png)
 
-### `npm test`
+This is a react applcation with storybook, this website can do the following.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+*Has extensicve hyperlinking the user can add their own social medias to the internal code, when an icon is clicked such as instagram it will bring the viewer directly to their account via a new tab.
 
-### `npm run build`
+*Intuiative interface eg home with logo linked hyperlinks
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot](home1.png)
+![Screenshot](home2.png)
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+*Has support for storybook
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+*Area for item addition for the store front
+![Screenshot](item1.png)
 
-### `npm run eject`
+*full CRUD support so the user can leave comments for the business owner.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![Screenshot](crud.png)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+*Deployed via Netify.
 
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+### Installing
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+A step by step series of examples that tell you how to get a development env running
 
-## Learn More
+Say what the step will be
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```
+See if node.js is installed by typing "node -v"
+if node.js is not installed follow these instructions 
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+for UBUNTU/LINUX       https://docs.npmjs.com/cli/install
+for WINDOWS machines   https://yarnpkg.com/lang/en/docs/install/#debian-stable
+```
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-### Analyzing the Bundle Size
+End with an example of getting some data out of the system or using it for a little demo
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+## Running the tests
 
-### Making a Progressive Web App
+Download the repo, go into the newhillsreatapp, then open a terminal.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+If your using windows type "yarn run"
 
-### Advanced Configuration
+if on Ubuntu/Linux type "npm run"
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
 
-### Deployment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `npm run build` fails to minify
+## Built With
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+* Help from labs
+* Help from the following playlists "https://www.youtube.com/watch?v=Ej3VPf-BrYM"
+* CRUD help from "https://www.youtube.com/watch?v=HZkN0LfC5dM&list=PLjW0UGS7gVqd9_BfJBkGAEUguPBeJ-LcE&index=2&t=0s"
+
+
+## Versioning
+
+I used to Netify "https://www.netlify.com/" an all in one platfrom tool to host my website.
+
