@@ -10,12 +10,16 @@ These instructions will get you a copy of the project up and running on your loc
 ## Routing
 
 ![Screenshot](routing1.png)
+![Screenshot](routing2.png)
 
 This is a react applcation with storybook, this website can do the following.
 
 *Has extensicve hyperlinking the user can add their own social medias to the internal code, when an icon is clicked such as instagram it will bring the viewer directly to their account via a new tab.
 
-*Intuiative interface
+*Intuiative interface eg home with logo linked hyperlinks
+
+![Screenshot](home1.png)
+![Screenshot](home2.png)
 
 *Has support for storybook
 
