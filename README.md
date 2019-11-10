@@ -7,6 +7,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### What the application can do!!!
 
+## Routing
+
+![Screenshot](routing1.png)
+
 This is a react applcation with storybook, this website can do the following.
 
 *Has extensicve hyperlinking the user can add their own social medias to the internal code, when an icon is clicked such as instagram it will bring the viewer directly to their account via a new tab.
