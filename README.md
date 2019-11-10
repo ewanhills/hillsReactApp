@@ -19,10 +19,6 @@ This is a react applcation with storybook, this website can do the following.
 
 *Deployed via Netify.
 
-```
-Give examples
-```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
