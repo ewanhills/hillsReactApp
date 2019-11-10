@@ -5,9 +5,19 @@ Ewan Hills React application for a ceramics producer.
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### What the application can do!!!
 
-What things you need to install the software and how to install them
+This is a react applcation with storybook, this website can do the following.
+
+*Has extensicve hyperlinking the user can add their own social medias to the internal code, when an icon is clicked such as instagram it will bring the viewer directly to their account via a new tab.
+
+*Intuiative interface
+
+*Has support for storybook
+
+*full CRUD support so the user can leave comments for the business owner.
+
+*Deployed via Netify.
 
 ```
 Give examples
