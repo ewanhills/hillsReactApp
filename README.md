@@ -1,6 +1,34 @@
 # Project Title
 Ewan Hills React application for a ceramics producer.
 
+## Overview
+Hyperlinking.
+
+full react design.
+
+routing and linking between all pages.
+
+side table bar for navigation.
+
+top header for navigation.
+
+showcase for ceramic items with links to business owners account, instagram homepage as a placeholder for now.#
+
+Logos such as youtube which will bring you to owners selected social media account, again youtube homepage as placeholder
+
+logo support for twitter, instagram, youtube, facebook.
+
+Full CRUD feedback support for customers/owner
+
+Deployed via Netify.
+
+Contact page with placeholder image as a test, can be changed as selected later on.
+
+
+
+
+
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
